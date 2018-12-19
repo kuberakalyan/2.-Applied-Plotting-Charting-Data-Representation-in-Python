@@ -1,0 +1,5 @@
+Separate contrasting colors are used for showing minimum and maximum temperatures. 
+The colors are made somewhat transparent by choosing alpha parameter wisely. 
+The frame of Legend is turned off as this makes the figure clumsy. 
+The y axis label mentions the unit of data (°C) being represented.
+This is a dense plot.

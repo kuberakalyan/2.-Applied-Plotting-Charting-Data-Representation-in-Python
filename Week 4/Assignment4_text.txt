@@ -1,0 +1,25 @@
+Title - Air Quality NH3 variation over major Indian Cities (2006-10)
+
+YES
+
+India and Air Qualty
+
+How Air Quality NH3 varied in Industrial areas of major Indian Cities Namely Hyderabad, Delhi, Mumbai, Nagpur, Chennai and Kolkata over 2006-10?
+
+https://data.gov.in/node/95447/download
+https://data.gov.in/node/95449/download
+https://data.gov.in/node/95450/download
+https://data.gov.in/node/95451/download
+https://data.gov.in/node/85884/download
+
+The plot clearly shows the Air Quality NH3 variation over major Indian Cities over the years 2006-10. The Quantity seems to have decreased over the years for Kolkata
+while Air Quality NH3 for Chennai almost doubled in the year 2010.
+
+
+Truthfulness - The data has been obtained from trusted government website and the variation is depicted in plot without deteriorating data or any assumption.
+
+Beauty - Different Colours are used for line graphs representing different years. Frame of legend turned off to keep the image clean. Quantity represented by y-axis have been clearly mentioned with units. Another possible way of drawing the plot can be to put year as x-axis.
+
+Functionality - Line graph seems to better explain the variation rather than bar graph wwhich would look clumsy and difficult to interpret here. Scatter plot is already out of question as it doesn't seem to fit for this kind of representation as we have only a few data points.
+
+Insightfulness - Air Quality NH3 for Chennai almost doubled in the year 2010. This does not match with general trend. It means either something bad happened that year or the data collected were erroneous. This needs further analysis and digging for the reasons.
